@@ -6,8 +6,19 @@ const theme = {
     small: 12,
   },
 
-  fontWeight: {
+  fontWeights: {
     bold: "bold",
+  },
+
+  fontColors: {
+    white: "#EEF7FF",
+  },
+
+  colors: {
+    darkBlue: "#1D5B79",
+    lightBlue: "#468B97",
+    coral: "#EF6262",
+    orange: "#F3AA60",
   },
 };
 

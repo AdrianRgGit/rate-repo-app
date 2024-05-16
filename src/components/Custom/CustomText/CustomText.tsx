@@ -24,6 +24,7 @@ const CustomText = ({
 const styles = StyleSheet.create({
   default: {
     fontSize: theme.fontSizes.body,
+    color: theme.fontColors.white,
   },
 
   title: {

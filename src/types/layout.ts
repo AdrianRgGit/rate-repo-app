@@ -1,9 +1,5 @@
 import { ReactNode } from "react";
 
-export interface CustomTextProps {
+export interface LayoutProps {
   children: ReactNode;
-  title?: boolean;
-  subTitle?: boolean;
-  small?: boolean;
-  bold?: boolean;
 }

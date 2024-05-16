@@ -1,12 +1,8 @@
-import { View, Text } from "react-native";
 import React from "react";
+import CustomText from "../../Custom/CustomText/CustomText";
 
 const AppBarTab = () => {
-  return (
-    <View>
-      <Text>AppBarTab</Text>
-    </View>
-  );
+  return <CustomText>AppBarTab</CustomText>;
 };
 
 export default AppBarTab;

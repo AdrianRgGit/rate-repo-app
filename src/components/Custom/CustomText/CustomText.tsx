@@ -1,7 +1,7 @@
 import { StyleSheet, Text } from "react-native";
 import React from "react";
-import { CustomTextProps } from "../../../../types/layout";
-import theme from "../../../../theme";
+import { CustomTextProps } from "../../../types/customText";
+import theme from "../../../theme";
 
 const CustomText = ({
   children,
